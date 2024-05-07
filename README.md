@@ -1,6 +1,8 @@
 ﻿# Library Spring API
 Welcome to the Library Spring API! This API provides endpoints to manage a collection of books within a library. With this API, you can seamlessly Add, List, and Remove books from your library inventory.
 
+<img src="book.jpg" alt="Library">
+
 ## Technologies
 
 - Java: Primary backend programming language.
